@@ -1,0 +1,53 @@
+_repo: Ehstnische-M-rchen.-Zweite-H-lfte_22516
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Kreutzwald, Friedrich Reinhold
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '36359'
+    url: http://www.gutenberg.org/2009/agents/36359
+  translator:
+    agent_name: Löwe, F. (Ferdinand)
+    aliases:
+    - Löwe, Ferdinand
+    - Lowe, F. (Ferdinand)
+    gutenberg_agent_id: '24843'
+    url: http://www.gutenberg.org/2009/agents/24843
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2007-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22516'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Estonia'
+- !lcsh 'Tales -- Estonia'
+- !lcc 'PG'
+- !lcc 'GR'
+tableOfContents: "1. Baumling und Borkling\r\n2. Des Nebelberges König\r\n3. Die schnellfüßige\
+  \ Königstochter\r\n4. Loppi und Lappi\r\n5. Der Pathe der Grottennymphen\r\n6. Seltene\
+  \ Weibestreue\r\n7. Aschen-Trine\r\n8. Reichlich vergoltene Wohlthat\r\n9. Die Stiefmutter\r\
+  \n10. Klugmann in der Tasche\r\n11. Der zaubermächtige Krebs und das unersättliche\
+  \ Weib\r\n12. Der Findling\r\n13. Wie sieben Schneider in den Türkenkrieg zogen\r\
+  \n14. Der Glücksrubel\r\n15. Der närrische Ochsenverkauf\r\n16. Der mildherzige\
+  \ Holzhacker\r\n17. Die nächtlichen Kirchengänger\r\n18. Des Schützen abhanden gekommenes\
+  \ Glück\r\n19. Der aus Gefahr erlöste Königssohn wird der Retter seiner Brüder\r\
+  \n20. _Localsagen._\r\na. Warum Reval niemals fertig werden darf\r\nb. Der Gerbleder-Verkäufer\r\
+  \nc. Das Fräulein von Borkholm\r\nd. Der winselnde Fußknöchel\r\ne. Der von der\
+  \ Stelle gerückte See\r\nf. Die Kaufmannstocher von Narva\r\ng. Wo Narva's früherer\
+  \ Reichthum liegt\r\nh. Das Mädchen von Waskjalasild\r\ni. Emmujärw und Wirtsjärw\r\
+  \nk. Die Tochter des Strandbewohners von Tolsburg\r\nl. Die Steindenkmale der Hungersnoth\r\
+  \nm. Der Herren von Pahlen Schutzgeist\r\nn. Der aus den Klauen eines Adlers gerettete\
+  \ Königssohn\r\no. Die Meermaid und der Herr von Pahlen\r\np. Der Kapellenbau\r\n\
+  q. Ein Herr von Pahlen rettet Reval aus Feindeshand\r\nr. Der Frauen von Pahlen\
+  \ Todesboten\r\ns. Der Heimgänger-Schütze"
+title: Ehstnische Märchen. Zweite Hälfte
+url: http://www.gutenberg.org/ebooks/22516
